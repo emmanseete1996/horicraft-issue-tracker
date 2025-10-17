@@ -1,24 +1,42 @@
 # Horicraft Issue Tracker
 
+![Issues](https://img.shields.io/github/issues/emmanseete1996/horicraft-issue-tracker)
+
 Welcome to the **Horicraft Issue Tracker**, the official platform for players to report and track issues within the Horicraft community. This repository helps ensure a fair, fun, and safe experience for all Horicraft players.
 
 ---
 
 ## 🚩 What Can You Report?
 
-- **Bug Reports:**  
+- **[Bug Report](https://github.com/emmanseete1996/horicraft-issue-tracker/issues/new?template=bug_report.yml):**  
   Report technical or gameplay bugs affecting the server or your experience.
 
-- **Player Reports:**  
+- **[Player Report](https://github.com/emmanseete1996/horicraft-issue-tracker/issues/new?template=player_report.yml):**  
   Flag inappropriate or disruptive player behavior.
 
-- **Griefing Reports:**  
+- **[Griefing Report](https://github.com/emmanseete1996/horicraft-issue-tracker/issues/new?template=griefing_report.yml):**  
   Report destruction or alteration of builds without permission.
 
-- **Stealing Reports:**  
+- **[Stealing Report](https://github.com/emmanseete1996/horicraft-issue-tracker/issues/new?template=stealing_report.yml):**  
   Notify staff about stolen items or property.
 
+- **[Suggestion / Enhancement](https://github.com/emmanseete1996/horicraft-issue-tracker/issues/new?template=enhancement.yml):**  
+  Share ideas for new features or improvements.
+
+- **[Question](https://github.com/emmanseete1996/horicraft-issue-tracker/issues/new?template=question.yml):**  
+  Ask for clarification or help regarding the server or community.
+
 ---
+
+# What Can You Report?  
+Below are the types of issues you can report in the Horicraft Issue Tracker. Each item is linked directly to its corresponding GitHub issue template for your convenience.
+
+---
+
+**Tip:**  
+Click the relevant link above to open a new issue using the correct template. This helps staff respond quickly and keeps reports organized!
+
+Let me know if you want to add more templates or need help customizing these links.
 
 ## 🏷️ Issue Labels
 
@@ -61,6 +79,11 @@ To help organize and manage reports, please use the following labels when submit
 ## 📬 Need Help?
 
 If you have questions or need assistance, feel free to open an issue with the `question` label or contact a staff member in discord or in-game.
+
+---
+
+## 📢 Feedback
+We welcome feedback and suggestions! Use the "Suggestion / Enhancement" template.
 
 ---
 
