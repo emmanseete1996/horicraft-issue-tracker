@@ -1,0 +1,37 @@
+name: "🔥 Griefing Report"
+description: Report destruction or alteration of builds without permission.
+labels: [griefing]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🔥 Griefing Report
+
+        Please provide as much detail as possible to help us investigate.
+  - type: input
+    id: location
+    attributes:
+      label: "Location (Coordinates or Description)"
+      description: Where did the griefing occur?
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description of Incident"
+      description: What happened? What was damaged or destroyed?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "Evidence"
+      description: Attach screenshots or other proof if available.
+    validations:
+      required: false
+  - type: input
+    id: your-username
+    attributes:
+      label: "Your Minecraft Username"
+    validations:
+      required: true
