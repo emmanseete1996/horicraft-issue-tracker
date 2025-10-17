@@ -28,33 +28,26 @@ Welcome to the **Horicraft Issue Tracker**, the official platform for players to
 
 ---
 
-# What Can You Report?  
-Below are the types of issues you can report in the Horicraft Issue Tracker. Each item is linked directly to its corresponding GitHub issue template for your convenience.
-
----
-
 **Tip:**  
 Click the relevant link above to open a new issue using the correct template. This helps staff respond quickly and keeps reports organized!
-
-Let me know if you want to add more templates or need help customizing these links.
 
 ## 🏷️ Issue Labels
 
 To help organize and manage reports, please use the following labels when submitting issues:
 
-| Label           | Color     | Description                                                        |
-|-----------------|-----------|--------------------------------------------------------------------|
-| `bug`           | #d73a4a   | Technical or gameplay bugs.                                        |
-| `player report` | #cfd3d7   | Reports of rule-breaking or disruptive behavior.                   |
-| `griefing`      | #ff9800   | Reports of unauthorized destruction or alteration of builds.       |
-| `stealing`      | #b60205   | Reports of theft of items or property.                             |
-| `duplicate`     | #cccccc   | Issue has already been reported.                                   |
-| `needs info`    | #f9d0c4   | More information required to proceed.                              |
-| `resolved`      | #0e8a16   | Issue has been fixed or addressed.                                 |
-| `wontfix`       | #ffffff   | Issue will not be fixed.                                           |
-| `enhancement`   | #84b6eb   | Suggestions for new features or improvements.                      |
-| `question`      | #d876e3   | General questions or requests for clarification.                   |
-| `staff only`    | #fbca04   | For staff attention or restricted discussion.                      |
+| Label           | Description                                                        |
+|-----------------|--------------------------------------------------------------------|
+| `bug`           | Technical or gameplay bugs.                                        |
+| `player report` | Reports of rule-breaking or disruptive behavior.                   |
+| `griefing`      | Reports of unauthorized destruction or alteration of builds.       |
+| `stealing`      | Reports of theft of items or property.                             |
+| `duplicate`     | Issue has already been reported.                                   |
+| `needs info`    | More information required to proceed.                              |
+| `resolved`      | Issue has been fixed or addressed.                                 |
+| `wontfix`       | Issue will not be fixed.                                           |
+| `enhancement`   | Suggestions for new features or improvements.                      |
+| `question`      | General questions or requests for clarification.                   |
+| `staff only`    | For staff attention or restricted discussion.                      |
 
 ---
 
