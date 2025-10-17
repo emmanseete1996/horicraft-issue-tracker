@@ -1,0 +1,30 @@
+name: "✨ Suggestion / Enhancement"
+description: Suggest a new feature or improvement for Horicraft.
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ✨ Suggestion / Enhancement
+
+        Have an idea to make Horicraft better? Let us know!
+  - type: input
+    id: summary
+    attributes:
+      label: "Summary"
+      description: Briefly describe your suggestion.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: "Details"
+      description: Explain your suggestion in detail.
+    validations:
+      required: true
+  - type: input
+    id: your-username
+    attributes:
+      label: "Your Minecraft Username"
+    validations:
+      required: false
