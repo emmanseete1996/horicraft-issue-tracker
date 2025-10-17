@@ -1,0 +1,44 @@
+name: "🛑 Stealing Report"
+description: Report theft of items or property from chests, bases, or other assets.
+labels: [stealing]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🛑 Stealing Report
+
+        Please provide as much detail as possible to help us resolve the issue.
+  - type: input
+    id: location
+    attributes:
+      label: "Location (Coordinates or Description)"
+      description: Where did the theft occur?
+    validations:
+      required: true
+  - type: textarea
+    id: items
+    attributes:
+      label: "Items Stolen"
+      description: List the items that were stolen.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description of Incident"
+      description: What happened? Any suspects?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: "Evidence"
+      description: Attach screenshots or other proof if available.
+    validations:
+      required: false
+  - type: input
+    id: your-username
+    attributes:
+      label: "Your Minecraft Username"
+    validations:
+      required: true
